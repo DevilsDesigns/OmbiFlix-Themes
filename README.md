@@ -50,19 +50,26 @@
 
 
 
-<h3>Login</h3>
-![](Preview/OmbiFlix-Dark/Login.gif)<br>
+<h3>Login</h3><br>
+
+  <img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/OmbiFlix-Logo.png?raw=true">
 
 
 
-<h4>UI #1</h4>
-![](Preview/OmbiFlix-Dark/UI.gif)<br>
+<h4>UI #1</h4><br>
 
 
 
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/UI.gif?raw=true"><br>
 
-<h4>UI #2</h4>
-![](Preview/OmbiFlix-Dark/UI2.gif)<br>
+
+
+<h4>UI #2</h4><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/UI2.gif?raw=true"><br>
+
 
 
 
