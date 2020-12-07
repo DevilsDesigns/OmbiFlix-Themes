@@ -54,8 +54,10 @@
 
 <h2>Login</h2><br>
 
-  <img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/OmbiFlix-Logo.png?raw=true">
 
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/Login.gif
+  
 
 
 <h2>UI #1</h2><br>
