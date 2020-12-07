@@ -12,10 +12,10 @@ form-control {
     border-radius: 5px;
 }
 .custom-background {
-    background-color: #101010 !important;
+	background-color: #101010 !important;
 }
 .dark .mat-raised-button:not([class*="mat-elevation-z"]) {
-    box-shadow: 0 3px 1px -2px rgba(16,16,16,1),0 2px 2px 0 rgba(16,16,16,1),0 1px 5px 0 rgba(16,16,16,1) !important;
+	box-shadow: 0 3px 1px -2px rgba(16,16,16,1),0 2px 2px 0 rgba(16,16,16,1),0 1px 5px 0 rgba(16,16,16,1) !important;
 }
 /*Colored UI (Red)*/
 .navbar-default .navbar-brand {
@@ -47,14 +47,14 @@ app-nav-search mat-form-field{
 
 /*Background*/
 .dark .mat-drawer {
-    color: #fff !important;
+	color: #fff !important;
 }
 .dark .mat-drawer-container {
-    color: #fff !important;
+	color: #fff !important;
 }
 /*RED SCROLL BAR*/
 body, html {
-    scrollbar-color: #a30000 #212121
+	scrollbar-color: #a30000 #212121
 }
 /*HOVER TABS*/
 .mat-select-panel .mat-option.mat-selected:not(.mat-option-multiple) {
@@ -64,25 +64,25 @@ body, html {
 /*BACKGROUND*/
 /*Main Page Background*/
 .dark .mat-drawer-container {
-    background-color: #101010 !important;
-    color: #fff;
+	background-color: #101010 !important;
+	color: #fff;
 }
 /*Sidebar Background*/
 .dark .mat-drawer, .dark .mat-drawer.mat-drawer-push {
-    background-color: #101010;
+	background-color: #101010;
 }
 .outer-profile {
-    background-color: #101010 !important;
-    box-shadow: inset 0 0 3px #fff;
-    padding: 1px;
+	background-color: #101010 !important;
+	box-shadow: inset 0 0 3px #fff;
+	padding: 1px;
 }
 .dark .mat-toolbar.mat-primary {
-    background: #101010 !important;
+	background: #101010 !important;
 }
 .dark .active-list-item {
-    background: #a30000 !important;
-    color: #fff !important;
-    font-weight: 500;
+	background: #a30000 !important;
+	color: #fff !important;
+	font-weight: 500;
 }
 /*SIDEBAR ICONS*/
 .profile-img-container url(https://i.imgur.com/cE02eEP.png) {
@@ -100,14 +100,14 @@ body, html {
 
 /*Button Sidebar Hover*/
 .dark .mat-action-list .mat-list-item:focus, .dark .mat-action-list .mat-list-item:hover, .dark .mat-list-option:focus, .dark .mat-list-option:hover, .dark .mat-nav-list .mat-list-item:focus, .dark .mat-nav-list .mat-list-item:hover {
-    background: hsl(0, 100%, 50%) !important;
+	background: hsl(0, 100%, 50%) !important;
 }
 .dark .mat-toolbar {
-    background: #101010;
-    color: #fff;
+	background: #101010;
+	color: #fff;
 }
 .dark .mat-fab.mat-primary, .dark .mat-flat-button.mat-primary, .dark .mat-mini-fab.mat-primary, .dark .mat-raised-button.mat-primary {
-    background-color: #a30000 !important;
+	background-color: #a30000 !important;
 }
 /*Progress Bar Colors*/
 .mat-progress-bar-background {
@@ -116,10 +116,10 @@ body, html {
 
 /*Button Current Selection*/
 .dark .mat-fab.mat-accent, .dark .mat-flat-button.mat-accent, .dark .mat-mini-fab.mat-accent, .dark .mat-raised-button.mat-accent {
-    background-color: #a30000 !important;
+	background-color: #a30000 !important;
 }
 .dark .mat-fab.mat-accent, .dark .mat-flat-button.mat-accent, .dark .mat-mini-fab.mat-accent, .dark .mat-raised-button.mat-accent {
-    color: #fff !important;
+	color: #fff !important;
 }
 
 /*Login Page Edits*/
@@ -140,8 +140,8 @@ body, html {
  text-decoration:none
 }
 .grow:hover {
-    transform: scale(1.1);
-    color: #fff !important;
+	transform: scale(1.1);
+	color: #fff !important;
 }
 
 /*Test*/
@@ -335,10 +335,34 @@ body {
     border-color: #fff !important;
 }
 .btn-info-outline.active, .btn-info-outline.focus, .btn-info-outline:active, .btn-info-outline:focus, .btn-info-outline:hover, .open>.btn-info-outline.dropdown-toggle {
-    color: #fff!important;
+    color: #a30000 !important;
     background-color: #fff!important;
     border-color: #a30000!important;
 }
 .ui-state-highlight {
     background: #fff !important;
+}
+/*Login Page Button*/
+.btn-success.active, .btn-success:active, .open>.dropdown-toggle.btn-success {
+    color: #a30000 !important;
+    background-color: #fff !important;
+    background-image: none;
+    border-color: transparent;
+}
+.btn-success.focus, .btn-success:focus, .btn-success:hover {
+    color: #a30000 !important;
+    background-color: #fff !important;
+    border-color: transparent;
+}
+.btn-success {
+    color: #fff;
+    background-color: #a30000 !important;
+    border-color: transparent;
+}
+.forgot-password[_ngcontent-c1]:active, .forgot-password[_ngcontent-c1]:focus, .forgot-password[_ngcontent-c1]:hover {
+    color: #fff !important;
+}
+.forgot-password[_ngcontent-c1] {
+    color: #a30000 !important;
+    text-align: center;
 }
