@@ -23,8 +23,10 @@
 
 
 <div align="center">
-<h4>Whats Included?</h4>
- 
+<h4>Whats Included?</h4><br>
+
+
+
  Netflix Styled Colors<br>
  
  
@@ -46,17 +48,17 @@
 
 
 
-<div align="center"><h3>Preview</h3>
+<div align="center"><h1>Preview</h1>
 
 
 
-<h3>Login</h3><br>
+<h2>Login</h2><br>
 
   <img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/OmbiFlix-Logo.png?raw=true">
 
 
 
-<h4>UI #1</h4><br>
+<h2>UI #1</h2><br>
 
 
 
@@ -64,7 +66,7 @@
 
 
 
-<h4>UI #2</h4><br>
+<h2>UI #2</h2><br>
 
 
 
@@ -75,7 +77,7 @@
 
 
  
-<h3>How to Install</h3>
+<h2>How to Install</h2>
 
 
  1. Copy the CSS from the OmbiFlix Dark CSS File Presented Below <br>
