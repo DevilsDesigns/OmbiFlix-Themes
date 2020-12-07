@@ -51,18 +51,18 @@
 
 
 <h3>Login</h3>
-https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/Login.gif<br>
+![](Screenshots/OmbiFlix-Dark/Login.gif)<br>
 
 
 
 <h4>UI #1</h4>
-https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI.gif<br>
+![](Screenshots/OmbiFlix-Dark/UI.gif)<br>
 
 
 
 
 <h4>UI #2</h4>
-https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI%202.gif<br>
+![](Screenshots/OmbiFlix-Dark/UI2.gif<br>
 
 
 
