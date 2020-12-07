@@ -42,7 +42,6 @@
  
  & much more<br>
 
-
 </div>
 
 
@@ -52,18 +51,18 @@
 
 
 <h3>Login</h3>
-![Login](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/Login.gif)<br>
+https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/Login.gif<br>
 
 
 
 <h4>UI #1</h4>
-![UI #1](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI.gif)<br>
+https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI.gif<br>
 
 
 
 
 <h4>UI #2</h4>
-![Login](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI%202.gif)<br>
+https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/UI%202.gif<br>
 
 
 
@@ -72,33 +71,18 @@
 <h3>How to Install</h3>
 
 
-1.  Copy the CSS from the OmbiFlix Dark CSS File Presented Below <br>
+ 1. Copy the CSS from the OmbiFlix Dark CSS File Presented Below <br>
+ [OmbiFlix-Dark CSS](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/OmbiFlix-Dark/OmbiFlix-Dark.css) <br>
+ 2. Go to Settings ------ Configurations ------ Customizations <br>
+ 3. Paste the Code in Your Ombi v3/v4 CSS Box <br>
+ 4. Save <br>
+ 5. Enjoy Your Netflix Clone for Ombi<br>
+
+</div>
 
 
 
-[OmbiFlix-Dark CSS](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/OmbiFlix-Dark/OmbiFlix-Dark.css) <br>
- 
-
-
-2. Go to Settings ------ Configurations ------ Customizations <br>
- 
- 
- 
-3. Paste the Code in Your Ombi v3/v4 CSS Box <br>
- 
- 
- 
-4. Save <br>
- 
- 
-  
-5. Enjoy Your Netflix Clone for Ombi<br>
-
-
-
-  </div>
 <div align="center">
-[TBD](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/OmbiFlix-Light/)
-<div align="center">
-<h3>Whats Included?</h3>
+  Omnbi Light Netflix Theme (Coming Soon)
+[Coming Soon](Coming Soon)
   </div>
