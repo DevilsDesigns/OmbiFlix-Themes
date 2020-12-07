@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h2>Custom Ombi v3/v4 Netflix Clone Theme<h2> <br>
+<h2>Custom Ombi v3/v4 Netflix Clone Theme</h2> <br>
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<h3>Whats Included?</h3>
+<h4>Whats Included?</h4>
  
  Netflix Styled Colors<br>
  
@@ -51,7 +51,7 @@
 
 
 
-<h4>Login</h4>
+<h3>Login</h3>
 ![Login](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/Login.gif)<br>
 
 
