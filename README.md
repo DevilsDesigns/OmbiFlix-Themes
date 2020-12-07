@@ -56,7 +56,9 @@
 
 
 
-<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/Login.gif
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Dark/Login.gif?raw=true"><br>
+
   
 
 
