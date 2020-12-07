@@ -3,7 +3,7 @@
 
 
 
-![GitHub Logo](https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Screenshots/OmbiFlix-Dark/OmbiFlix-Logo.png)<br>
+![](Preview/OmbiFlix-Dark/OmbiFlix-Logo.png)<br>
 
 
 <div align="center">
@@ -51,18 +51,18 @@
 
 
 <h3>Login</h3>
-![](Screenshots/OmbiFlix-Dark/Login.gif)<br>
+![](Preview/OmbiFlix-Dark/Login.gif)<br>
 
 
 
 <h4>UI #1</h4>
-![](Screenshots/OmbiFlix-Dark/UI.gif)<br>
+![](Preview/OmbiFlix-Dark/UI.gif)<br>
 
 
 
 
 <h4>UI #2</h4>
-![](Screenshots/OmbiFlix-Dark/UI2.gif<br>
+![](Preview/OmbiFlix-Dark/UI2.gif)<br>
 
 
 
