@@ -48,7 +48,7 @@
 
 
 
-<div align="center"><h1>Preview</h1>
+<div align="center"><h1>Preview OmbiFlix v3 Compatible</h1>
 
 
 
@@ -79,6 +79,67 @@
 
 
 
+<div align="center"><h1>Preview OmbiFlix v4 Compatible</h1>
+
+
+
+<h2>Login</h2><br>
+
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot%202021-04-23%20144444.png?raw=true"><br>
+
+  
+
+
+<h2>UI #1</h2><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot 2021-04-23 142153.png?raw=true"><br>
+
+
+
+<h2>UI #2</h2><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot 2021-04-23 140823.png?raw=true"><br>
+
+
+<h2>Login</h2><br>
+
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot 2021-04-23 140706.png?raw=true"><br>
+
+  
+
+
+<h2>UI #1</h2><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot%202021-04-23%20135315.png?raw=true"><br>
+
+
+
+<h2>UI #2</h2><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot 2021-04-23 135145.png?raw=true"><br>
+
+
+
+
+<h2>UI #2</h2><br>
+
+
+
+<img src="https://github.com/DevilsDesigns/OmbiFlix-Themes/blob/main/Preview/OmbiFlix-Ombi-v4-Compatbile/Screenshot 2021-04-23 135010.png?raw=true"><br>
 
  
 <h2>How to Install</h2>
