@@ -1,0 +1,184 @@
+/* Background */
+.content-container {
+	background: #101010 !important;
+	color: #a30000 !important;
+}
+.content-container .top-bar-container {
+	background: #101010 !important;
+	color: #fff !important;
+	padding-top: 1em;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	margin-bottom: .5rem;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #fff !important;
+}
+.mat-sidenav-container {
+	background: #101010 !important;
+}
+/* Search Bar */
+.top-search-bar .mat-form-field-flex {
+	border: 1px solid #fff !important;
+	border-radius: 30px;
+	height: 50px;
+}
+
+.content-container .top-bar-container {
+	color: #fff !important;
+}
+.mat-toolbar .mat-focused .mat-form-field-label, .mat-toolbar .mat-form-field-label, .mat-toolbar .mat-form-field.mat-focused .mat-select-arrow, .mat-toolbar .mat-select-arrow, .mat-toolbar .mat-select-value {
+	color: #fff !important;
+}
+a {
+	color: #a30000 !important;
+	text-decoration: none;
+	background-color: transparent;
+}
+.content-container {
+	background: #101010 !important;
+	color: #a30000 !important;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+	color: #a30000 !important;
+	background: transparent;
+}
+/* Content Cards */
+.mat-fab, .mat-flat-button, .mat-mini-fab, .mat-raised-button {
+	color: #a30000 !important;
+}
+.btn-ombi[_ngcontent-ehi-c257] {
+	background-color: #fff !important;
+}
+
+/* Nav Bar */
+.sidenav-container .sidenav .application-name {
+	font-family: Montserrat,sans-serif;
+	text-transform: uppercase;
+	color: #a30000 !important;
+	align-items: center;
+	font-weight: 700;
+	font-size: 36px;
+	padding: 40px 20px;
+	height: auto;
+	max-width: 350px;
+	display: flex;
+	white-space: normal;
+}
+.sidenav-container .sidenav {
+	background: #101010 !important;
+	color: #fff !important;
+	font-family: Montserrat,sans-serif;
+}
+.mat-drawer-inner-container {
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+	background: #101010 !important;
+}
+.sidenav-container .sidenav .active-list-item {
+	color: #fff !important;
+	background: #a30000 !important;
+	border-radius: 0 30px 30px 0;
+	padding: 10px 20px;
+	height: auto;
+	width: 20rem;
+}
+.sidenav-container .sidenav .mat-list-item {
+	color: #fff !important;
+	font-family: Roboto,sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 10px 20px;
+	height: auto;
+	width: 20rem;
+	margin-bottom: .5rem;
+}
+.mat-action-list .mat-list-item:focus, .mat-action-list .mat-list-item:hover, .mat-list-option:focus, .mat-list-option:hover, .mat-nav-list .mat-list-item:focus, .mat-nav-list .mat-list-item:hover {
+	background: rgba(163, 0, 0, 1) !important;
+}
+.mat-list-base .mat-list-item, .mat-list-base .mat-list-option {
+	color: #fff !important;
+}
+.btn-ombi {
+	background-color: #fff !important;
+}
+
+/* Filter Buttons */
+.discover-filter-buttons-group {
+	background: #101010 !important;
+	border: 1px solid #fff !important;
+	border-radius: 30px;
+	color: #fff !important;
+	margin-bottom: 10px;
+	margin-right: 30px;
+}
+.discover-filter-buttons-group .button-active {
+	background: #a30000 !important;
+}
+/* Buttons */
+.mat-fab.mat-accent, .mat-flat-button.mat-accent, .mat-mini-fab.mat-accent, .mat-raised-button.mat-accent {
+	color: #1b242f;
+	background-color: #fff !important;
+}
+/* Slider Buttons */
+.mat-slide-toggle-content {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: #a30000 !important;
+}
+.mat-slide-toggle-thumb {
+	background-color: #a30000 !important;
+}
+.mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
+	background-color: rgba(163, 0, 0, 1) !important;
+}
+.mat-menu-content:not(:empty) {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background: #fff !important;
+}
+/* Dropdown Menu */
+.mat-menu-content:not(:empty) {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background: #101010 !important;
+}
+.mat-table {
+	font-family: Roboto,Helvetica Neue,sans-serif;
+	background: #101010 !important;
+}
+.mat-menu-item-highlighted:not([disabled]), .mat-menu-item.cdk-keyboard-focused:not([disabled]), .mat-menu-item.cdk-program-focused:not([disabled]), .mat-menu-item:hover:not([disabled]) {
+	background: hsla(0, 100%, 32%, 1) !important;
+}
+.mat-menu-item::-moz-focus-inner {
+	border: 0;
+	background: #fff !important;
+}
+/* Details Page*/
+.btn-green {
+	background-color: #fff !important;
+}
+.mat-card, .mat-expansion-panel {
+	background: #101010;
+}
+.mat-card {
+	background: #424242;
+	color: #a30000;
+}
+hr {
+	border-top: 1px solid #a30000;
+}
+.mat-chip.mat-standard-chip::after {
+	background: #a30000 !important;
+}
+.mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
+	background-color: #fff !important;
+}
+.mat-chip-list-wrapper input.mat-input-element, .mat-chip-list-wrapper .mat-standard-chip {
+	margin: 4px;
+	color: #a30000 !important;
+}
